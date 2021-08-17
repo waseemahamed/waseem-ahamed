@@ -4,7 +4,7 @@
 }
 #waseem
 {
-  font-size: 40px;
+  font-size: 35px;
 }
 img
 {
@@ -21,11 +21,15 @@ img
 }
 body
 {
-  background: url("bg.jpg") no-repeat center center fixed;
+  background: url("bg2.jpg") no-repeat center center fixed;
   background-size: cover;
 
 }
 #contact
 {
   font-size: 30px;
+}
+.color
+{
+  color: white;
 }
